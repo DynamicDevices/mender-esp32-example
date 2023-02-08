@@ -1,5 +1,7 @@
 # mender-esp32-example
 
+NOTE: This is forked from forked [joelguittet/mender-esp32-example](https://github.com/joelguittet/mender-esp32-example) to include usage details outside US.
+
 [![CI Badge](https://github.com/joelguittet/mender-esp32-example/workflows/ci/badge.svg)](https://github.com/joelguittet/mender-esp32-example/actions)
 [![Issues Badge](https://img.shields.io/github/issues/joelguittet/mender-esp32-example)](https://github.com/joelguittet/mender-esp32-example/issues)
 [![License Badge](https://img.shields.io/github/license/joelguittet/mender-esp32-example)](https://github.com/joelguittet/mender-esp32-example/blob/master/LICENSE)
